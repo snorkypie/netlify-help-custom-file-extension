@@ -1,0 +1,5 @@
+<body style="background-color: green; color: white">
+	<h2>I am with a green background!</h2>
+
+	<a href="/" style="color: lightcoral">Link to first page</a>
+</body>

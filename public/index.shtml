@@ -1,0 +1,5 @@
+<body style="background-color: red; color: white">
+	<h2>I am with a red background!</h2>
+
+	<a href="/test.shtml" style="color: yellow">Link to test</a>
+</body>
